@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
 dannicool/docker-wechatbot-webhook
+minio/minio:RELEASE.2023-03-20T20-16-18Z
